@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank Cards related prod APIs "
+  contactDetails:
+    name: "Ashish - Product Owner"
+    email: "aishwarya@eazybank.com"
+  onCallSupport:
+    - (999) 999-4829
+    - (999) 999-0384
